@@ -1,0 +1,15 @@
+To create your own page:
+
+- choose one of the templates in this folder
+- copy the file 
+- add your own content
+- save the file as [namelastname].html
+- upload the file to the Students or Faculty folder
+- merge your changes to the master branch
+
+
+The template without columns has space for one image, plus paragraphs in a wide single column layout.
+
+The template with columns has an additional two column section after that.
+
+Each file has annotations with the content you should add. The basics are: your name, a picture, and a paragraph.
